@@ -1,0 +1,50 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #022b3a; 
+    border-bottom: 10px solid #000000;
+    padding: 10px 20px;    
+}
+
+
+nav {
+    text-align: right;
+}
+
+a {
+    display: inline-flex;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: "fira code", Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;    
+}
+
+a:hover{
+    color: #db7c26;
+}
+
+a::before {
+    content: " ";
+    background-color: #db7c26;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+#button {
+    display: inline-block;
+    background-color: #db7c26;
+    padding: 18px 20px;
+    box-shadow: 5px 5px #000000;
+    margin-right: 0;
+    transition: transform 100ms linear;
+}
+
+#button:hover {
+    transform: scale(1.08); 
+    color: #FFFFFF;   
+}

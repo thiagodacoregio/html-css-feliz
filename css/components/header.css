@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3A4042; 
+    border-bottom: 10px solid #000000;
+    padding: 10px 20px;    
+}

@@ -1,5 +1,6 @@
 .button {
     display: inline-block;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
     background-color: #db7c26;
     color: #FFFFFF;
     padding: 18px 20px;

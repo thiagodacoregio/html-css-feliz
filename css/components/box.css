@@ -4,6 +4,7 @@
     box-shadow: 5px 5px 0 #000000;
     text-align: center;
     padding: 42px 44px;
+    border-radius: 30px;
 }
 .box .main-title {
     margin-bottom: 28px;

@@ -1,12 +1,18 @@
 .skills-tec {
-    font-family: "Press Start 2P", sans-serif;
+    font-family: "Protest Strike", sans-serif;
     font-size: 25px;
     color: #ffffff;
     display: flex;
+    align-items: flex-start;
 }
 
 .skills-tec .icon {
     margin-right: 25px;
+    width: 75px;
+}
+
+.skills-tec .title {
+    margin-bottom: 10px;
 }
 
 .skills-tec .right {

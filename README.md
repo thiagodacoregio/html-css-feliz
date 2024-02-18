@@ -1,4 +1,4 @@
-#New portifolio project
+# New portifolio project
 
 ## Tools used:
 
